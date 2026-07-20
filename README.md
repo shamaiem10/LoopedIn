@@ -29,6 +29,8 @@ No recycled hot takes. No stock handshake photos. Just a very committed autonomo
 
 ## The daily grind
 
+<div align="center">
+
 | Step | What happens |
 |:--|:--|
 | **Clock-in** | Daily schedule trigger fires at 3PM |
@@ -44,9 +46,13 @@ No recycled hot takes. No stock handshake photos. Just a very committed autonomo
 | **Approved →** | Publishes live via Buffer |
 | **Rejected →** | Logged and dropped, no one has to know |
 
+</div>
+
 <br>
 
 ## The cast of characters
+
+<div align="center">
 
 | Persona | Actually is |
 |:--|:--|
@@ -59,11 +65,15 @@ No recycled hot takes. No stock handshake photos. Just a very committed autonomo
 | The PR Team | **Buffer → LinkedIn** — pushes it live |
 | The Asset Library | **Cloudinary** — hosts the graphics |
 
+</div>
+
 <br>
 
 ## The content calendar
 
 Clone this Google Sheet structure:
+
+<div align="center">
 
 | Column | Meaning |
 |:--|:--|
@@ -72,6 +82,8 @@ Clone this Google Sheet structure:
 | `text` | Full ghostwritten post |
 | `image` | Google Drive link to the art |
 | `status` | `ready` → `posted` / `rejected` |
+
+</div>
 
 <br>
 
@@ -102,6 +114,6 @@ Every post is fact-checked and scored for originality before you ever see it —
 
 ### *"Grateful for this automation. It taught me that consistency beats perfection."*
 
-
+<sub>built with an unreasonable number of `IF` nodes and zero shame</sub>
 
 </div>
